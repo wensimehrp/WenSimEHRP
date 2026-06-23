@@ -39,7 +39,7 @@ You're looking at a _baka_'s account, which means that anything from this accoun
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2025 - To: 21 June 2026
+From: 01 March 2025 - To: 22 June 2026
 
 Total Time: 1,323 hrs 48 mins
 
