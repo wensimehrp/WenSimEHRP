@@ -7,7 +7,7 @@ You're looking at a _baka_'s account, which means that anything from this accoun
   - checkout <https://paiagram.com> for an online version!
 - [Robosign](https://paiagram.com/robosign) ([repo](https://github.com/wensimehrp/robosign))
   - Online tool for generating station signs. Powered by [Typst](https://typst.app)
-- [Otter Docs](https://wensimehrp.github.io/otter-docs)
+- [Haita](https://wensimehrp.github.io/haita)
   - Typst Documentation Tool in pure Typst
 - prprprprprprprprprprprprprprprprprprprprprprprpr
 
