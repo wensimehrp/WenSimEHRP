@@ -42,7 +42,7 @@ I like code.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2025 - To: 24 July 2026
+From: 01 March 2025 - To: 25 July 2026
 
 Total Time: 1,401 hrs 1 min
 
