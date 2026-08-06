@@ -39,21 +39,8 @@ I like code.
 
 ### Devtime breakdown
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 01 March 2025 - To: 05 August 2026
-
-Total Time: 1,420 hrs 52 mins
-
-Rust                               778 hrs 41 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.63 %
-Typst                              326 hrs 55 mins       ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.68 %
-Other                              87 hrs 24 mins        ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.80 %
-Nix                                46 hrs 47 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.10 %
-TOML                               33 hrs 32 mins        ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.22 %
-```
-
-<!--END_SECTION:waka-->
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wensimehrp&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=wensimehrp&layout=compact&hide_title=true&langs_count=8&disable_animations=true)
 
 ![](./_MG_3019.avif)
 
