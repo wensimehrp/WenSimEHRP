@@ -10,17 +10,19 @@ I like code.
   - Typst Documentation Tool in pure Typst
 - [TFVIndex](https://wensimehrp.github.io/tfvindex) ([repo](https://github.com/wensimehrp/tfvindex))
   - Icons taken from <http://trainfrontview.net>. Rearranged and restyled. Generated with Typst and [Typhoon](https://github.com/wensimehrp/tailwindcss-typst)
-- [Robosign](https://paiagram.com/robosign) ([repo](https://github.com/wensimehrp/robosign))
-  - Online tool for generating station signs. Powered by [Typst](https://typst.app)
+- [Chinese Railway GTFS](https://github.com/wensimehrp/chinese-railway-gtfs)
+  - GTFS data for the China Railway company
 
 ### Languages
 
-- Typst
+(In alphabetical order)
+
+- English
+- Gleam (maybe?)
+- Mandarin
 - Rust
-- English **(I don't speak English at all. Any English content you see in this account is written by aliens I found in my backyard. This message is also written by an alien, so if you see this message, go to this guy's home and save us!)**
-- Mandarin Chinese (native)
+- Typst
 - A variation of Wu Chinese
-- I might consider studying japanese but currently I'm just not motivated
 
 ### Connections
 
@@ -42,6 +44,10 @@ I like code.
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wensimehrp&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true)
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=wensimehrp&layout=compact&hide_title=true&langs_count=8&disable_animations=true)
 
-![](./_MG_3019.avif)
+---
 
-Vancouver Harbour
+Here's a picture of Vancouver Harbour
+
+![A picture of Vancouver Harbour](./_MG_3019.avif)
+
+Have a good day!
