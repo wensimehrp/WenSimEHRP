@@ -41,8 +41,8 @@ I like code.
 
 ### Devtime breakdown
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wensimehrp&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true)
-![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=wensimehrp&layout=compact&hide_title=true&langs_count=8&disable_animations=true)
+![](https://wakatime.com/share/@WenSimEHRP/468eaf47-d03c-4c85-9b15-ca5e4047f40b.svg)
+![](https://wakatime.com/share/@WenSimEHRP/ba53c90e-2dad-40d4-93f2-db7cddd7c82f.svg)
 
 ---
 
@@ -50,4 +50,4 @@ Here's a picture of Vancouver Harbour
 
 ![A picture of Vancouver Harbour](./_MG_3019.avif)
 
-Have a good day!
+Have a nice day!
