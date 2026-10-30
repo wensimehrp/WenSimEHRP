@@ -2,6 +2,8 @@ I'm interested in simulation games, management games, Project Mirai, and Project
 
 I like code.
 
+[![wakatime](https://wakatime.com/badge/user/3ccfe070-205f-4eef-826d-419a0ac19311.svg)](https://wakatime.com/@3ccfe070-205f-4eef-826d-419a0ac19311)
+
 - [Paiagram](https://paiagram.com) ([repo](https://github.com/wensimehrp/paiagram))
   - application for visualizing timetables and drawing marey charts.
   - checkout <https://paiagram.com/china-railway> for an online demo!
@@ -38,11 +40,6 @@ I like code.
 - A table and a chair, or if I can't find them, the floor and my laps
 - Clothes, to keep myself warm
 - GRRRRRRAAAAAAAAAAAAAAAAASSSSSSSSS for touching
-
-### Devtime breakdown
-
-![](https://wakatime.com/share/@WenSimEHRP/468eaf47-d03c-4c85-9b15-ca5e4047f40b.svg)
-![](https://wakatime.com/share/@WenSimEHRP/ba53c90e-2dad-40d4-93f2-db7cddd7c82f.svg)
 
 ---
 
